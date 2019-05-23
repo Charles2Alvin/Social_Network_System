@@ -1,0 +1,5 @@
+name,gender,birth,email,address,passwd
+杨逍,m,2000-01-01,2,光明顶,3
+张无忌,m,1997-09-20,abc@gmail.com,冰火岛,123
+成昆,NULL,NULL,chengkun@163.com,NULL,chengkun
+周芷若,NULL,NULL,zhiruo@126.com,NULL,zhiruo
